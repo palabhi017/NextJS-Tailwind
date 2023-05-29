@@ -25,7 +25,8 @@ export default function Home() {
    <>
    <h1>hello</h1>
    <h2>fetching data</h2>
-
+   <h2>fetching data</h2>
+ 
    <button onClick={getdata}>get</button>
    </>
   )
